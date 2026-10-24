@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Liu Xiushi — Product Experience Design">
+<defs><radialGradient id="g"><stop stop-color="#eb702e" stop-opacity=".28"/><stop offset="1" stop-color="#eb702e" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="360" rx="18" fill="#101114"/><circle cx="1050" cy="190" r="260" fill="url(#g)"/>
+<g fill="none" stroke="#d57845"><ellipse cx="1050" cy="180" rx="183" ry="73" transform="rotate(-35 1050 180)"/><ellipse cx="1050" cy="180" rx="183" ry="73" transform="rotate(35 1050 180)" opacity=".3"/><circle cx="1050" cy="180" r="110" stroke="#f2eee7" opacity=".18"/></g>
+<circle cx="1200" cy="89" r="6" fill="#ff9b5c"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="64" y="64" font-size="13" letter-spacing="3" fill="#b6b4af">LIU XIUSHI / SELECTED DESIGN WORK</text>
+<text x="60" y="158" font-size="62" font-weight="700" letter-spacing="-2" fill="#f5f3ed">Product Experience</text><text x="62" y="220" font-size="52" fill="#f5f3ed">Design.</text>
+<text x="64" y="286" font-size="17" fill="#c6bfb7">UI/UX · INTELLIGENT PRODUCTS · AIGC</text>
+<path d="M64 316H810" stroke="#393633"/><text x="64" y="341" font-size="11" letter-spacing="2" fill="#b6b4af">OBSERVE / CONNECT / CREATE</text></g></svg>
