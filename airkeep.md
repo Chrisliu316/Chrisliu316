@@ -2,6 +2,14 @@
 
 # AIRKEEP｜智能健身组件
 
+## 产品与界面演示
+
+[查看 AIRKEEP 产品展示视频 · MP4](airkeep-product-film.mp4)
+
+[![AIRKEEP 模块、材质与 App 展示视频封面](airkeep-video-poster.jpg)](airkeep-product-film.mp4)
+
+视频展示产品旋转、组件细节、材质与 App 页面，属于产品动画与界面方案表达。
+
 ## 场景与设计方向
 
 项目面向寝室等小型公共居住空间，提出可自由拆卸的健身组件与配套 App 方案，兼顾训练方式、日常收纳和数字端反馈。
